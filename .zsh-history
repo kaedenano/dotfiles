@@ -5,3 +5,32 @@
 : 1650455245:0;ls
 : 1650455247:0;ls
 : 1650455256:0;git add .
+: 1650455258:0;git commit -m "first commit"
+: 1650455259:0;clear
+: 1650455264:0;git push origin master
+: 1650455281:0;ls -a
+: 1650455284:0;clear
+: 1650455285:0;clear
+: 1650455286:0;clear
+: 1650455344:0;clear
+: 1650455348:0;vim .zsh
+: 1650455357:0;clear
+: 1650455362:0;vim .zshrc
+: 1650455733:0;ls
+: 1650455733:0;clear
+: 1650455734:0;clear
+: 1650455766:0;ls
+: 1650455775:0;cat deploy.sh
+: 1650455790:0;vim init.sh
+: 1650455873:0;chmod +x init.sh
+: 1650455890:0;vim init.sh
+: 1650455930:0;ls
+: 1650455933:0;cat init.sh
+: 1650455936:0;clear
+: 1650455938:0;cat init.sh
+: 1650456052:0;vim init.sh
+: 1650456300:0;clear
+: 1650456310:0;vim deploy.sh
+: 1650456440:0;vim deploy.sh
+: 1650456536:0;clear
+: 1650456541:0;git add .

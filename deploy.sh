@@ -1,4 +1,6 @@
-#!/bin/bash -e
+#!/bin/bash
+
+mv ~/.zshrc ~/dotfiles 
 
 IGNORE_PATTERN="^\.(git|travis)"
 
