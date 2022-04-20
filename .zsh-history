@@ -34,3 +34,106 @@
 : 1650456440:0;vim deploy.sh
 : 1650456536:0;clear
 : 1650456541:0;git add .
+: 1650456543:0;git commit -m "first commit"
+: 1650456546:0;git push origin master
+: 1650456639:0;ssh
+: 1650456644:0;cd ..
+: 1650456645:0;ls
+: 1650456688:0;kls
+: 1650456688:0;ks
+: 1650456689:0;k
+: 1650456689:0;sk
+: 1650456690:0;sclear
+: 1650456691:0;clear
+: 1650456693:0;sudo
+: 1650456702:0;cd dotfiles
+: 1650456704:0;vim .zsh
+: 1650456709:0;vim .zshrc
+: 1650456775:0;source .zsh
+: 1650456776:0;source .zshrc
+: 1650456778:0;celar
+: 1650456781:0;clear
+: 1650456783:0;ll
+: 1650456784:0;ll
+: 1650456784:0;l
+: 1650456784:0;l
+: 1650456784:0;l
+: 1650456785:0;ll
+: 1650456785:0;cealr
+: 1650456786:0;l
+: 1650456786:0;l
+: 1650456787:0;ll
+: 1650456788:0;c
+: 1650456790:0;clear
+: 1650456850:0;5~cd .
+: 1650456851:0;cd ..
+: 1650456878:0;ssh-keygen -t ed25519 -C "lindell870@gmail.com"
+: 1650456947:0;ll
+: 1650456955:0;cd .ssh
+: 1650456955:0;ls
+: 1650456961:0;cat id_ed25519
+: 1650456982:0;clear
+: 1650456985:0;cat id_ed25519.pub
+: 1650457017:0;cd ..
+: 1650457018:0;ls
+: 1650457035:0;ssh -t kaedenano@github.com
+: 1650457038:0;ssh -t kaedenano@github.com
+: 1650457042:0;clear
+: 1650457051:0;ssh -t kaedenano@github.com
+: 1650457133:0;cat id_ed25519.pub
+: 1650457140:0;cat .ssh/id_ed25519.pub
+: 1650457156:0;vim .ssh/id_ed25519.pub
+: 1650457250:0;cd ..
+: 1650457250:0;ls
+: 1650457251:0;cd lynn
+: 1650457252:0;ls
+: 1650457253:0;clear
+: 1650457272:0;ssh -t kaedenano@github.com
+: 1650457282:0;ssh -t git@github.com
+: 1650457286:0;ssh -t kaedenano@github.com
+: 1650457337:0;ssh -vT kaedenano@github.com
+: 1650457416:0;ls ~/.ssh
+: 1650457445:0;vim ~/.ssh/cofig
+: 1650457478:0;vim ~/.ssh/config
+: 1650457524:0;rm .ssh/cofig
+: 1650457534:0;ll .ssh/
+: 1650457553:0;clear
+: 1650457563:0;cd dotfiles/
+: 1650457563:0;ls
+: 1650457577:0;ssh -t kaedenano@github.com
+: 1650457581:0;clear
+: 1650457589:0;ssh -vT git@github.com
+: 1650457605:0;clear
+: 1650457608:0;ssh -t kaedenano@github.com
+: 1650457612:0;ssh -vt kaedenano@github.com
+: 1650457735:0;vim ~/.ssh/config
+: 1650457830:0;clear
+: 1650457832:0;tmux
+: 1650457846:0;vim ~/.ssh/config
+: 1650457853:0;cd ..
+: 1650457858:0;cd .ssh
+: 1650457858:0;ls
+: 1650457886:0;clear
+: 1650457896:0;clear
+: 1650457896:0;cd ..
+: 1650457897:0;clear
+: 1650457905:0;ssh -vt kaedenano@github.com
+: 1650457917:0;ssh -t kaedenano@github.com
+: 1650457937:0;vim ~/.ssh/config
+: 1650457953:0;clear
+: 1650457957:0;ssh -vt kaedenano@github.com
+: 1650457960:0;clear
+: 1650457962:0;clear
+: 1650457963:0;clear
+: 1650457963:0;la
+: 1650457964:0;ra
+: 1650457964:0;r
+: 1650457964:0;ra
+: 1650457964:0;le
+: 1650457964:0;rlarlal
+: 1650457964:0;ralr
+: 1650457965:0;aclear
+: 1650457966:0;clear
+: 1650457970:0;cd dotfiles
+: 1650457971:0;ls
+: 1650457975:0;git add .
