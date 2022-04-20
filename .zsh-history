@@ -1,0 +1,295 @@
+cd dotfiles
+ls
+ls
+ls
+ls -a
+ln -sv ~/dotfiles/.zshrc ~/
+vim
+ls
+kls
+ls -a
+vim deploy.sh
+celar
+clear
+git init
+ls
+ls
+sl
+slls
+ls
+lsls
+clear
+ls
+ls
+sl
+chmod +x deploy.sh
+;
+cat .zshrc
+clear
+git init
+git add .
+git commit -m "first commit""\
+
+git commit -m "first commit"
+git config --global user.email "lindell870@gmail.com"
+git config --global user.name "lynn"
+git commit -m "first commit"
+clear
+git remote add origin git://github.com/kaedenano/dotfiles.git
+git pish origin master
+git push origin master
+git remote add origin https://github.com/kaedenano/dotfiles.git
+git push origin master
+git remote -v
+git remote add origin https://github.com/kaedenano/dotfile.git
+git remote rm origin
+git remote add origin https://github.com/kaedenano/dotfile.git
+git remote rm origin
+git remote add origin https://github.com/kaedenano/dotfiles.git
+clear
+git push origin master
+git push origin master
+git push origin master
+clear
+exit
+cd dotfiles
+git init
+ls
+ls
+s
+ls
+sl
+sl
+s
+s
+s
+clear
+sudo apt install sl
+sl
+clear
+git
+ls
+git diff
+ls
+sl
+sl
+sudo apt autoremote sl
+sudo apt autoremove sl
+sl
+sl
+sclear
+clear
+ls
+ls
+ls
+s
+ss
+l
+ss
+top -u
+clear
+top
+free -h
+clear
+lscpu
+lsusp
+lsusb
+sudo lsusb
+clear
+exit
+ls
+pwd
+ls
+sl
+cd dotfiles
+ls
+cat .zshrc
+clear
+exit
+bash
+fish
+git 
+fish
+ls
+cd dotfiles
+ls
+./deploy.sh
+clear
+git init
+git commit -m "first commit"
+git push origin master
+ls
+./deploy.sh
+exit
+cd dotfiles
+ls
+vim deploy.sh
+./deploy.sh
+clear
+ls
+pwd
+exit
+cd dotfiles
+ls
+./deploy.sh
+clear
+pwd
+ls
+ls -a
+.zshrc
+vim .zshrc
+tmux -s new
+tmux 
+exit
+tmux
+exit
+ls -a
+cd ..
+ls -a
+rm .tmux.conf
+clear
+tmux
+wd
+celar
+clear
+exit
+exit
+clear
+ls
+ls
+l
+ls
+p10k
+p10k configure
+zinit
+sh -c "$(curl -fsSL https://git.io/zinit-install)"
+clear
+source .zshrc
+clear
+ls
+ls
+ls
+zinit self-update
+cat .zsh
+cat .zshrc
+clear
+ls
+ls
+ls
+l
+sl
+ls
+tmux 
+clear
+exti
+exit
+xit
+exit
+clear
+tmux kill-server
+celar
+clear
+tmux
+tmux
+exit
+tmux ls
+clear
+11
+clear
+kokok
+clear
+cat
+cleari
+clear
+sh
+clear
+cat .zsh
+cat .zshrc
+cd dotfiles
+ls
+cat .zshrc
+ls
+ls -a
+clear
+ls -a
+cat .zi
+cat .zi
+mv .zi dotfiles
+mv .zi dotfiles
+clear
+cd dotfiles
+./deploy.sh
+celar
+clear
+celar
+clear
+clear
+pwd
+vim .zshrc
+vim .zshrc
+ls
+source .zshrc
+c;ear
+clear
+l
+clear
+exit
+exit
+: 1650453881:0;source .zshrc
+: 1650453882:0;clear
+: 1650453884:0;clear
+: 1650453887:0;clear
+: 1650453890:0;ls -a
+: 1650453918:0;mv .p10k.zsh dotfiles
+: 1650453936:0;mv .zsh-history dotfiles
+: 1650454052:0;ls
+: 1650454057:0;clear
+: 1650454061:0;git inti
+: 1650454064:0;git remote -v
+: 1650454066:0;clear
+: 1650454068:0;git add .
+: 1650454081:0;ls
+: 1650454084:0;cat .zi
+: 1650454088:0;cd .zi
+: 1650454088:0;ls
+: 1650454091:0;cd bin
+: 1650454091:0;ls
+: 1650454420:0;cls
+: 1650454421:0;clear
+: 1650454438:0;mv .zi ~/
+: 1650454442:0;ls
+: 1650454444:0;cd ..
+: 1650454446:0;mv .zi ~/
+: 1650454447:0;ls
+: 1650454450:0;cd ..
+: 1650454451:0;clear
+: 1650454453:0;mv .zi ~/
+: 1650454455:0;ls
+: 1650454462:0;ls -a
+: 1650454476:0;cd ..
+: 1650454484:0;rm -rf .zi
+: 1650454496:0;mv dotfiles/.zi ~/
+: 1650454497:0;clear
+: 1650454499:0;clear
+: 1650454500:0;l;s
+: 1650454504:0;cd dotfiles
+: 1650454504:0;ls
+: 1650454506:0;ls -a
+: 1650454523:0;cd .p10k.zsh
+: 1650454528:0;cat .p10k.zsh
+: 1650454534:0;clear
+: 1650454546:0;tmux
+: 1650454557:0;ls
+: 1650454565:0;ls -a
+: 1650454571:0;ll
+: 1650454590:0;cd ..
+: 1650454596:0;mv .p10k.zsh
+: 1650454601:0;rm .p10k.zsh
+: 1650454618:0;mv .p10k.zsh ~/
+: 1650454620:0;ls
+: 1650454621:0;ls -a
+: 1650454629:0;init
+: 1650454633:0;git init
+: 1650454634:0;clear
+: 1650454637:0;git add .
+: 1650454676:0;git add .
