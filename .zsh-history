@@ -1,1 +1,7 @@
 : 1650455222:0;git add .
+: 1650455226:0;git commit -m "first commit"
+: 1650455230:0;git push origin master
+: 1650455235:0;git push origin master
+: 1650455245:0;ls
+: 1650455247:0;ls
+: 1650455256:0;git add .
