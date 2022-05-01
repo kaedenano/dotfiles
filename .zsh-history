@@ -161,3 +161,242 @@
 : 1650458165:0;clear
 : 1650458169:0;git push origin master
 : 1650458174:0;git add .
+: 1650458180:0;git commit -m "first commit"
+: 1650458181:0;clear
+: 1650458183:0;git push origin master
+: 1650458523:0;git hub
+: 1650458527:0;cd dotfiles
+: 1650458536:0;vim init.sh
+: 1650538009:0;ls
+: 1650538010:0;ls
+: 1650538017:0;claer
+: 1650538023:0;clear
+: 1650538024:0;clear
+: 1650538144:0;heroku
+: 1650538150:0;heroku
+: 1650538153:0;heroku
+: 1650538157:0;sudo apt install heroku
+: 1650538172:0;sudo snap install --classic heroku
+: 1650538177:0;sudo snap install --classic heroku
+: 1650538218:0;sudo apt install
+: 1650538220:0;clear
+: 1650538231:0;;s
+: 1650538232:0;ls
+: 1650538233:0;pwd
+: 1650538235:0;clear
+: 1650538237:0;heroku
+: 1650538241:0;c;ear
+: 1650538242:0;clear 
+: 1650538245:0;ll
+: 1650538247:0;ll
+: 1650538247:0;l
+: 1650538247:0;l
+: 1650538248:0;clear
+: 1650538249:0;fish
+: 1650538264:0;clear
+: 1650538289:0; curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+: 1650538309:0;heroku
+: 1650538311:0;clear
+: 1650538313:0;heroku login
+: 1650538332:0;heroku
+: 1650538335:0;sudo heroku
+: 1650538337:0;clear
+: 1650538340:0;sudo heroku login
+: 1650538352:0;ls
+: 1650538367:0; heroku git:clone -a spotifysv 
+: 1650538370:0;sudo  heroku git:clone -a spotifysv 
+: 1650538377:0; cd spotifysv
+: 1650538381:0;ls
+: 1650538391:0;sudo  heroku git:clone -a spotifysv 
+: 1650538393:0;clear
+: 1650538394:0;clear
+: 1650538394:0;ls
+: 1650538395:0;ls
+: 1650538401:0;clear
+: 1650538504:0;ls
+: 1650538505:0;clear
+: 1650538506:0;clear
+: 1650538776:0;vim
+: 1650538784:0;celar
+: 1650538785:0;clear
+: 1650538791:0;clear
+: 1650538792:0;clear
+: 1650538792:0;clear
+: 1650538794:0;clear
+: 1650538834:0;ckear
+: 1650538835:0;clear
+: 1650538840:0;this guy programs like how hollywood thinks people program
+: 1650538841:0;celar
+: 1650538843:0;haswel ref
+: 1650538844:0;celar
+: 1650538845:0;clear
+: 1650538846:0;clewa
+: 1650538848:0;clear
+: 1650538851:0;strema
+: 1650538851:0;clear
+: 1650538852:0;celar
+: 1650538854:0;clear
+: 1650538854:0;ls
+: 1650538856:0;ls
+: 1650538862:0;git add .
+: 1650538868:0;5~cc
+: 1650538870:0;git init
+: 1650538871:0;celar
+: 1650538872:0;clear
+: 1650538875:0;sudo git init
+: 1650538876:0;celar
+: 1650538879:0;5~sud]
+: 1650538880:0;sod
+: 1650538881:0;clear
+: 1650538883:0;git add .
+: 1650538886:0;sudo git add .
+: 1650538890:0;git commit -m "first commit"
+: 1650538892:0;sudo git commit -m "first commit"
+: 1650538893:0;celar
+: 1650538896:0;5~l
+: 1650538898:0;clera
+: 1650538899:0;clear
+: 1650538907:0;git push origin master
+: 1650538909:0;sudo git push origin master
+: 1650538914:0;sudo git push heroku master
+: 1650538917:0;celar
+: 1650538918:0;clear
+: 1650538924:0;clea
+: 1650538926:0;tmux
+: 1650538931:0;clear
+: 1650538932:0;l
+: 1650538933:0;l
+: 1650538933:0;l
+: 1650538934:0;l
+: 1650538934:0;l
+: 1650538934:0;l
+: 1650538934:0;clear
+: 1650538936:0;clear
+: 1650539032:0;clear
+: 1650539032:0;l
+: 1650539033:0;ls
+: 1650539034:0;clear
+: 1650539038:0;cat index.php
+: 1650539039:0;ls
+: 1650539043:0;cat index.php
+: 1650539046:0;vim index.php
+: 1650539054:0;cel;ar
+: 1650539055:0;clear
+: 1650539057:0;cd ..
+: 1650539058:0;ls
+: 1650539059:0;ls
+: 1650539059:0;l
+: 1650539059:0;s
+: 1650539059:0;s
+: 1650539062:0;laer
+: 1650539064:0;cat .zshrc
+: 1650539071:0;vim .zshrc
+: 1650539085:0;vim.vimrc
+: 1650539088:0;vim .vimrc
+: 1650543111:0;sudo lsblk
+: 1650543456:0;wsl --mount PHYSICALDRIVE5
+: 1651137288:0;ls
+: 1651137289:0;l
+: 1651137289:0;l
+: 1651137289:0;l
+: 1651137289:0;l
+: 1651137290:0;ll
+: 1651137291:0;cleaer
+: 1651137292:0;clear
+: 1651137429:0;ns
+: 1651137429:0;ls
+: 1651137435:0;cd cl
+: 1651137441:0;p10k configure
+: 1651137458:0;ls
+: 1651137461:0;cd 
+: 1651137464:0;p10k configure
+: 1651137858:0;cl
+: 1651137859:0;cd
+: 1651137862:0;ls
+: 1651137863:0;pwd
+: 1651137867:0;p10k configure
+: 1651137928:0;clear
+: 1651137929:0;clear
+: 1651137930:0;git
+: 1651137933:0;clear
+: 1651137936:0;heroku login
+: 1651137945:0;ls
+: 1651137951:0;rm -rf spotifysv
+: 1651137951:0;ls
+: 1651137956:0;sudo rm -rf spotifysv
+: 1651137959:0;clear
+: 1651137959:0;l
+: 1651137970:0;heroku git:clone -a spotifysv 
+: 1651137976:0;clear
+: 1651137979:0;cd spotifysv
+: 1651137979:0;ls
+: 1651137985:0;git remote -v
+: 1651137986:0;clear
+: 1651137990:0;vim index.php
+: 1651138015:0;ls
+: 1651138018:0;clear
+: 1651138018:0;l
+: 1651138019:0;l
+: 1651138020:0;sl;2A
+: 1651138021:0;cl
+: 1651138021:0;ls
+: 1651138191:0;ls
+: 1651138192:0;clear
+: 1651138214:0;ls
+: 1651138215:0;clear
+: 1651138247:0;vim index.php
+: 1651138298:0;ls
+: 1651138299:0;clear
+: 1651138300:0;vim index.php
+: 1651138316:0;ls
+: 1651138317:0;clear
+: 1651138319:0;cd vendor/composer
+: 1651138319:0;ls
+: 1651138320:0;c
+: 1651138321:0;cd ..
+: 1651138323:0;cd ..
+: 1651138327:0;cat composer.json
+: 1651138328:0;l
+: 1651138329:0;c
+: 1651138329:0;elar
+: 1651138330:0;clear
+: 1651138333:0;clear
+: 1651138384:0;ls
+: 1651138386:0;vim index.php
+: 1651138417:0;ls
+: 1651138422:0;clear
+: 1651138450:0;vim index.php
+: 1651138485:0;cd ..
+: 1651138492:0;vim .vimrc
+: 1651138512:0;vim .vimrc
+: 1651138592:0;nvim
+: 1651138596:0;clear
+: 1651138597:0;clear
+: 1651138619:0;cd .config
+: 1651138619:0;ls
+: 1651138627:0;mkdir nvim
+: 1651138678:0;cd nvim
+: 1651138681:0;mkdir colors
+: 1651138903:0;mkdir .config/nvim/plugins
+: 1651138914:0;cd ..
+: 1651138915:0;cd ..
+: 1651138917:0;mkdir .config/nvim/plugins
+: 1651138921:0;touch .config/nvim/init.vim
+: 1651138924:0;touch .config/nvim/options.rc.vim
+: 1651138927:0; touch .config/nvim/keymap.rc.vim
+: 1651138929:0;clear
+: 1651138933:0;touch .config/nvim/dein.toml
+: 1651138936:0;touch .config/nvim/deinft.toml
+: 1651138939:0;touch .config/nvim/deinlazy.toml
+: 1651138945:0;tree .config/nvim/
+: 1651138953:0;cd 
+: 1651138954:0;clear
+: 1651138957:0;cd .config/nvim
+: 1651138958:0;ls
+: 1651138961:0;vim init.vim
+: 1651138971:0;vim options.rc.vim
+: 1651138989:0;vim dein
+: 1651138993:0;vim dein.toml
+: 1651139020:0;nvim
+: 1651139029:0;clear
+: 1651139032:0;exit
