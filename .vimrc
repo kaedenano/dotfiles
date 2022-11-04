@@ -1,4 +1,6 @@
 set noswapfile
+set tabstop=4
+set shiftwidth=2
 set nobackup
 set noundofile
 set number
